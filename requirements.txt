@@ -40,4 +40,5 @@ tzdata==2026.5
 wcwidth==0.8.5
 zipp==3.20.2
 seaborn
+catboost
 -e .
